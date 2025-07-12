@@ -1,0 +1,8 @@
+.container {
+  display: none;
+}
+
+.visble {
+  display: flex;
+  background-color: aquamarine;
+}
